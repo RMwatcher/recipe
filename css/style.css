@@ -73,7 +73,6 @@ figcaption {
 h1 {
   font-family: Georgia, "Times New Roman", serif;
   color: #552e18;
-  /* background-color: #c19070; */
   font-size: 2.6em;
   font-weight: bold;
   text-align: center;
@@ -103,10 +102,6 @@ h3 {
   grid-template-columns: 1fr 1fr;
   font-size: 1em;
 }
-
-/* #meatballs {
-  padding-left: 5%;
-} */
 
 #meatballs span, #sauce span {
   font-size: 1.1em;
@@ -219,10 +214,6 @@ a:hover, a:focus {
   #meatballs {
     margin-bottom: 5%;
   }
-
-  /* #steps span {
-    font-size: 1.1em;
-  } */
 
   footer {
     font-size: 0.9em;
